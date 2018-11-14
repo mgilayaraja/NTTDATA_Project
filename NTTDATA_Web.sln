@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTTDATA_Web", "NTTDATA_Web\NTTDATA_Web.csproj", "{DE08B106-4448-48B2-B96F-BDFE5B28966C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "REST_Web_Api", "REST_Web_Api\REST_Web_Api.csproj", "{210BD2CE-3AC2-4B6C-9486-272F1BC8C468}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTTDATA_UnitTest", "NTTDATA_UnitTest\NTTDATA_UnitTest.csproj", "{E6B2F7CD-7245-4C24-B694-B21C545B84DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE08B106-4448-48B2-B96F-BDFE5B28966C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE08B106-4448-48B2-B96F-BDFE5B28966C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE08B106-4448-48B2-B96F-BDFE5B28966C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE08B106-4448-48B2-B96F-BDFE5B28966C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{210BD2CE-3AC2-4B6C-9486-272F1BC8C468}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{210BD2CE-3AC2-4B6C-9486-272F1BC8C468}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{210BD2CE-3AC2-4B6C-9486-272F1BC8C468}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{210BD2CE-3AC2-4B6C-9486-272F1BC8C468}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6B2F7CD-7245-4C24-B694-B21C545B84DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6B2F7CD-7245-4C24-B694-B21C545B84DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6B2F7CD-7245-4C24-B694-B21C545B84DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6B2F7CD-7245-4C24-B694-B21C545B84DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
